@@ -1,6 +1,5 @@
 import numpy 
 
-
 print("Hello Magnar")
 
 def randomNumber():
@@ -16,6 +15,11 @@ def iterator():
     i = 0
     for i in range(20):
         randomNumber()
+
+# tricks = ["rodeo", "cork", "bio", "d-spin"]
+
+# trickToTake = numpy.random(tricks)
+# print(trickToTake)
 
 # iterator()
 print("spin to take")
